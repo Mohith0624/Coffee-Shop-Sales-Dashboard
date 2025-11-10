@@ -44,8 +44,7 @@ This project contains an **interactive Coffee Shop Sales Dashboard** built in **
 3. Use **Slicers** to filter by:
 
    * Month
-   * Store Location
-   * Product Category / Product
+   * Day
 4. Observe charts and KPIs update instantly.
 
 ---
