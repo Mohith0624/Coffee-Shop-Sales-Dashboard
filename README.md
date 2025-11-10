@@ -56,24 +56,3 @@ This project contains an **interactive Coffee Shop Sales Dashboard** built in **
 
 
 ---
-
-## 🔄 Refresh Instructions
-
-If you update the dataset in `Sheet1`, click:
-
-```
-Data → Refresh All
-```
-
----
-
-## ⭐ Description for GitHub
-
-> Interactive Excel dashboard to analyze coffee shop sales performance, identify top products, peak hours, and compare store performance using PivotTables, PivotCharts, and Slicers.
-
----
-
-If you'd like, I can now:
-✅ Add a **dashboard screenshot** layout
-✅ Create a **GitHub project tags section**
-✅ Generate **LinkedIn post text** to showcase your project
