@@ -23,9 +23,13 @@ Built using PivotTables, PivotCharts, and Slicers for dynamic filtering and quic
 - Top Category/Product 🥇
 - Store Revenue Comparison 🏪
 
-🧰 Tools Used
-Tool	                  Purpose
-Microsoft Excel	        Main platform
-PivotTables	            Data summarization
-PivotCharts	            Trend visualization
-Slicers	                Dashboard interactivity
+## 🧰 Tools Used
+
+| Tool           | Purpose                 |
+|----------------|-------------------------|
+| Microsoft Excel | Main platform           |
+| PivotTables     | Data summarization      |
+| PivotCharts     | Trend visualization     |
+| Slicers         | Dashboard interactivity |
+
+<img width="1597" height="691" alt="Sample Dashboard Image" src="https://github.com/user-attachments/assets/995b8a77-3b62-4dc0-bb89-cedb1358b8d6" />
