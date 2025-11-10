@@ -1,45 +1,31 @@
-# Coffee-Shop-Sales-Dashboard
+# COFFEE SHOP SALES DASHBOARD
 
 ☕ Coffee Shop Sales Dashboard
-
 📌 Overview
-This project contains an interactive Excel Dashboard that visualizes coffee shop sales data, helping to monitor business performance and identify key trends.
-The dashboard is built using pivot tables, slicers, and charts to allow quick insights into sales patterns across time, products, and store locations.
 
-📊 Dataset Description
+Interactive Excel dashboard to analyze coffee shop performance and discover sales trends.
+Built using PivotTables, PivotCharts, and Slicers for dynamic filtering and quick insights.
 
-The dataset (Sheet1) includes transaction-level data with the following fields:
+🎯 What You Can Do on the Dashboard
 
-- transaction_id – Unique identifier for each transaction
-- transaction_date & transaction_time – When the sale occurred
-- store_id & store_location – Store details
-- product_id, product_category, product_type, product_detail – Product hierarchy
-- transaction_qty – Quantity sold
-- unit_price – Price per unit
-- Total_bill – Total bill amount for the transaction
-- Size – Product size (e.g., Small, Medium, Large)
-- Month Name, Day Name, Hour – Time breakdown for analysis
+- View total sales, order count, and average order value
+- Explore sales trends across days, months, or hours
+- Identify top-selling products and categories
+- Compare store/location performance
+- Filter everything using interactive slicers
 
-📈 Dashboard Features
+📊 Dashboard KPIs Displayed
 
-The Dashboard sheet provides:
+- Total Sales 💰
+- Total Orders 🧾
+- Average Order Value (AOV) 📐
+- Units Sold 🔢
+- Top Category/Product 🥇
+- Store Revenue Comparison 🏪
 
-- Sales by Day of Week – Identifies the busiest days
-- Sales by Hour – Highlights peak selling times
-- Top Product Categories – Shows best-performing categories (e.g., Bakery, Tea, Coffee)
-- Store Performance – Compares sales across different store locations
-- Monthly Trends – Tracks growth or decline over months
-
-🛠 Tools & Techniques
-
-- Microsoft Excel – Data cleaning, pivot tables, slicers, and dashboard creation
-- Pivot Tables – Summarizing total sales, quantities, and transactions
-- Charts – Line, column, and pie charts for better visualization
-- Slicers – Interactive filtering by month, day, store, and category
-
-💡 Insights You Can Gain
-
-- Best-selling product categories & items
-- Peak sales hours and days
-- Store location performance comparison
-- Seasonal or monthly sales trends
+🧰 Tools Used
+Tool	                  Purpose
+Microsoft Excel	        Main platform
+PivotTables	            Data summarization
+PivotCharts	            Trend visualization
+Slicers	                Dashboard interactivity
