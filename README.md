@@ -1,12 +1,12 @@
-# ☕ Coffee Shop Sales Dashboard
+# Coffee Shop Sales Dashboard
 
-## 📌 Overview
+## Overview
 
 This project contains an **interactive Coffee Shop Sales Dashboard** built in **Microsoft Excel**. The dashboard helps analyze overall business performance by visualizing **sales trends, product demand, store performance,** and **peak business hours**. It allows dynamic filtering using PivotTables, PivotCharts, and Slicers for easy data exploration.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 | Tool            | Purpose                 |
 | --------------- | ----------------------- |
@@ -17,7 +17,7 @@ This project contains an **interactive Coffee Shop Sales Dashboard** built in **
 
 ---
 
-## 📊 Key Dashboard Insights
+## Key Dashboard Insights
 
 * **Total Sales, Orders, and Average Order Value (AOV)**
 * **Sales Trends over Months and Days**
@@ -37,7 +37,7 @@ This project contains an **interactive Coffee Shop Sales Dashboard** built in **
 
 ---
 
-## 🎯 How to Use
+## How to Use
 
 1. Open the Excel file.
 2. Navigate to the **Dashboard** sheet.
@@ -50,7 +50,7 @@ This project contains an **interactive Coffee Shop Sales Dashboard** built in **
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](assets/Sample-Dashboard-Image.png)
 
