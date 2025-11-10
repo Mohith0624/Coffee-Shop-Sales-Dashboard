@@ -52,7 +52,7 @@ This project contains an **interactive Coffee Shop Sales Dashboard** built in **
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](assets/coffee-dashboard.png)
+![Dashboard Preview](assets/Sample-Dashboard-Image.png)
 
 
 ---
